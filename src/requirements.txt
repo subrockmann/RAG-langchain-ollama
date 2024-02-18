@@ -3,3 +3,4 @@ python-dotenv
 openai
 ollama
 deeplake
+gpt4all
