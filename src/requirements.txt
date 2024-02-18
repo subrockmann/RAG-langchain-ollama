@@ -4,3 +4,4 @@ openai
 ollama
 deeplake
 gpt4all
+unstructured
