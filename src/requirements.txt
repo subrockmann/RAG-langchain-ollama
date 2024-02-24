@@ -2,6 +2,8 @@ jupyter
 python-dotenv
 openai
 ollama
+langchain
 deeplake
 gpt4all
 unstructured
+sentence-transformers
